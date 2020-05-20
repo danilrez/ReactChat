@@ -1,6 +1,6 @@
 # Online Chat App
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+![Chat Application](https://raw.githubusercontent.com/CrappyCodeMaker/ReactChat/master/preview.jpg)
 
 ### [Live Site](https://frstreactappchat.netlify.app)
 
